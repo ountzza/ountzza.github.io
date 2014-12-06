@@ -2,9 +2,7 @@
 title: Ountzza GitHub funtime adventure !!
 email: pond1982a@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  “He who speaks a bit of a foreign language has more delight in it than he who speaks it well; pleasure goes along with superficial knowledge.”
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "pondd.me" # the base hostname & protocol for your site
 twitter_username: noobme
