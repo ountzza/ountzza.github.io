@@ -3,10 +3,10 @@ title: Ountzza GitHub funtime adventure !!
 email: pond1982a@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   “He who speaks a bit of a foreign language has more delight in it than he who speaks it well; pleasure goes along with superficial knowledge.” - Friedrich Nietzsche
-baseurl: "/about/" # the subpath of your site, e.g. /blog/
-url: "http://ountzza.github.io/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "pondd.me" # the base hostname & protocol for your site
 twitter_username: noobme
-github_username:  ountzza
+github_username: ountzza
 
 # Build settings
 markdown: kramdown

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ountzza GitHub funtime adventure !!</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>“He who speaks a bit of a foreign language has more delight in it than he who speaks it well; pleasure goes along with superficial knowledge.” - Friedrich Nietzsche
 </description>
-    <link>pondd.me/</link>
-    <atom:link href="pondd.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 06 Dec 2014 11:35:28 +0700</pubDate>
-    <lastBuildDate>Sat, 06 Dec 2014 11:35:28 +0700</lastBuildDate>
+    <link>http://ountzza.github.io//about//</link>
+    <atom:link href="http://ountzza.github.io//about//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 06 Dec 2014 14:57:20 +0700</pubDate>
+    <lastBuildDate>Sat, 06 Dec 2014 14:57:20 +0700</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
@@ -28,11 +28,32 @@
 
 </description>
         <pubDate>Sat, 06 Dec 2014 18:23:18 +0700</pubDate>
-        <link>pondd.me/jekyll/update/2014/12/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">pondd.me/jekyll/update/2014/12/06/welcome-to-jekyll.html</guid>
+        <link>http://ountzza.github.io//about//jekyll/update/2014/12/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://ountzza.github.io//about//jekyll/update/2014/12/06/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>And so it begin</title>
+        <description>&lt;p&gt;I am finally trying to find sometime to sit down and try to give some effort in learning &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the &lt;code&gt;first&lt;/code&gt; post - and from the look of things - the &lt;code&gt;only&lt;/code&gt; post&lt;/p&gt;
+
+&lt;p&gt;Hopefully, I will be able to do more. 
+Wish me luck :)&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 06 Dec 2014 18:23:18 +0700</pubDate>
+        <link>http://ountzza.github.io//about//personal/update/2014/12/06/and-so-it-begins.html</link>
+        <guid isPermaLink="true">http://ountzza.github.io//about//personal/update/2014/12/06/and-so-it-begins.html</guid>
+        
+        
+        <category>personal</category>
         
         <category>update</category>
         
